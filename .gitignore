@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# Jupyter / Notebooks（仓库仅保留 .py 脚本）
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+*.ipynb
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data (若数据目录在仓库内)
+# data/
+# *.npy
+
+# Logs and outputs
+*.log
+logs/
+outputs/
+
+# Distribution / build
+dist/
+build/
+*.egg-info/
+*.egg
